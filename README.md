@@ -72,20 +72,8 @@ Once the Environment Variables are defined and node modules installed the boiler
 -  ✅  Testing Setup with Cypress and Jest
 -  ✅  CRUD operations
 
-## 📜 Docs 
 
-The Documentation is available here: https://docs.saasstarterkit.com/docs/Intro/Welcome
 
-If  there are any questions or something is not covered in the docs, feel free to open a github issue on this repo. 
-
-##  💻 Demo
-The Demo can be found here: https://demo.saasstarterkit.com/app/1/dashboard
-
-Certain Features have to be disabled or cant be included in the demo. 
-
-## 💎 Saas Starterkit Pro
-
-The Pro Version is a more advanced SAAS boilerplate with many more features compared to the open source version. 
 
 
 #### Additional Features: 
@@ -98,11 +86,8 @@ The Pro Version is a more advanced SAAS boilerplate with many more features comp
 -  ✅  Event Based Google Analytics
 
 
-Yes, We know having the Pro version behind a paywall is a little annoying, but the sales from the Pro version is what allows us to provide the free open source projects, written tutorials and video tutorials. Please do consider upgrading if you like the open source work and want to support the project.  
 
-The Pro Version can be found here:
 
-https://www.saasstarterkit.com
 
 ## 🤝 Contributing
 
